@@ -8,6 +8,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     version: "3.3.0"
 =======
 <<<<<<< Updated upstream
@@ -23,12 +24,16 @@ packages:
     version: "3.3.0"
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+    version: "3.3.0"
+>>>>>>> Stashed changes
   async:
     dependency: transitive
     description:
       name: async
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "2.9.0"
 =======
@@ -37,6 +42,9 @@ packages:
 =======
     version: "2.9.0"
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+    version: "2.9.0"
 >>>>>>> Stashed changes
   boolean_selector:
     dependency: transitive
@@ -64,14 +72,26 @@ packages:
 =======
 <<<<<<< Updated upstream
     version: "7.0.4"
+<<<<<<< Updated upstream
 =======
     version: "8.1.1"
+  characters:
+=======
   characters:
     dependency: transitive
     description:
       name: characters
       url: "https://pub.dartlang.org"
     source: hosted
+    version: "1.2.1"
+  charcode:
+>>>>>>> Stashed changes
+    dependency: transitive
+    description:
+      name: characters
+      url: "https://pub.dartlang.org"
+    source: hosted
+<<<<<<< Updated upstream
     version: "1.2.1"
 >>>>>>> Stashed changes
   charcode:
@@ -82,6 +102,9 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.1"
+=======
+    version: "1.1.2"
+>>>>>>> Stashed changes
   clock:
     dependency: transitive
     description:
@@ -95,6 +118,7 @@ packages:
       name: collection
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "1.16.0"
 =======
@@ -116,12 +140,16 @@ packages:
     version: "1.16.0"
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+    version: "1.16.0"
+>>>>>>> Stashed changes
   crypto:
     dependency: transitive
     description:
       name: crypto
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "3.0.2"
 =======
@@ -130,6 +158,9 @@ packages:
 =======
     version: "3.0.2"
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+    version: "3.0.2"
 >>>>>>> Stashed changes
   cupertino_icons:
     dependency: "direct main"
@@ -149,9 +180,19 @@ packages:
 =======
 <<<<<<< Updated upstream
     version: "0.2.4+3"
+<<<<<<< Updated upstream
 =======
     version: "1.3.1"
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+  fake_async:
+    dependency: transitive
+    description:
+      name: fake_async
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.3.1"
 >>>>>>> Stashed changes
   file:
     dependency: transitive
@@ -160,6 +201,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     version: "6.1.2"
 =======
 <<<<<<< Updated upstream
@@ -167,6 +209,9 @@ packages:
 =======
     version: "6.1.2"
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+    version: "6.1.2"
 >>>>>>> Stashed changes
   fixnum:
     dependency: transitive
@@ -208,12 +253,16 @@ packages:
       name: http_parser
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
     version: "4.0.2"
   integration_test:
     dependency: "direct dev"
     description: flutter
     source: sdk
     version: "0.0.0"
+=======
+    version: "3.1.3"
+>>>>>>> Stashed changes
   matcher:
     dependency: transitive
     description:
@@ -221,9 +270,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
     version: "0.12.6"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     version: "0.12.12"
@@ -235,8 +287,11 @@ packages:
     source: hosted
     version: "0.1.5"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   meta:
     dependency: transitive
@@ -244,6 +299,7 @@ packages:
       name: meta
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "1.8.0"
 =======
@@ -253,12 +309,16 @@ packages:
     version: "1.8.0"
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+    version: "1.8.0"
+>>>>>>> Stashed changes
   path:
     dependency: transitive
     description:
       name: path
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "1.8.2"
 =======
@@ -267,6 +327,9 @@ packages:
 =======
     version: "1.8.2"
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+    version: "1.8.2"
 >>>>>>> Stashed changes
   payjp_flutter:
     dependency: "direct main"
@@ -289,6 +352,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0+1"
+<<<<<<< Updated upstream
   petitparser:
     dependency: transitive
     description:
@@ -297,12 +361,15 @@ packages:
     source: hosted
     version: "2.4.0"
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
   platform:
     dependency: transitive
     description:
       name: platform
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "3.1.0"
 =======
@@ -312,12 +379,16 @@ packages:
     version: "3.1.0"
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+    version: "3.1.0"
+>>>>>>> Stashed changes
   process:
     dependency: transitive
     description:
       name: process
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "4.2.4"
 =======
@@ -330,6 +401,9 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.4.2"
+=======
+    version: "4.2.4"
+>>>>>>> Stashed changes
   quiver:
     dependency: transitive
     description:
@@ -353,6 +427,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     version: "1.9.0"
 =======
 <<<<<<< Updated upstream
@@ -360,6 +435,9 @@ packages:
 =======
     version: "1.9.0"
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+    version: "1.9.0"
 >>>>>>> Stashed changes
   stack_trace:
     dependency: transitive
@@ -382,9 +460,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
     version: "1.0.5"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     version: "1.1.1"
@@ -396,8 +477,11 @@ packages:
     source: hosted
     version: "0.3.1"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   term_glyph:
     dependency: transitive
@@ -405,6 +489,7 @@ packages:
       name: term_glyph
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "1.2.1"
 =======
@@ -414,12 +499,16 @@ packages:
     version: "1.2.1"
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+    version: "1.2.1"
+>>>>>>> Stashed changes
   test_api:
     dependency: transitive
     description:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "0.4.12"
 =======
@@ -429,12 +518,16 @@ packages:
     version: "0.4.12"
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+    version: "0.4.12"
+>>>>>>> Stashed changes
   typed_data:
     dependency: transitive
     description:
       name: typed_data
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "1.3.1"
 =======
@@ -444,12 +537,16 @@ packages:
     version: "1.3.1"
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+    version: "1.3.1"
+>>>>>>> Stashed changes
   vector_math:
     dependency: transitive
     description:
       name: vector_math
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "2.1.2"
   vm_service:
@@ -462,11 +559,16 @@ packages:
   vm_service:
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+    version: "2.1.2"
+  vm_service:
+>>>>>>> Stashed changes
     dependency: transitive
     description:
       name: vm_service
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "9.0.0"
   webdriver:
@@ -475,11 +577,16 @@ packages:
     version: "0.2.6+2"
   web_socket_channel:
 >>>>>>> Stashed changes
+=======
+    version: "9.0.0"
+  webdriver:
+>>>>>>> Stashed changes
     dependency: transitive
     description:
       name: webdriver
       url: "https://pub.dartlang.org"
     source: hosted
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     version: "3.0.0"
 sdks:
@@ -506,4 +613,10 @@ sdks:
   dart: ">=2.17.0-0 <3.0.0"
   flutter: ">=1.12.0"
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+    version: "3.0.0"
+sdks:
+  dart: ">=2.17.0-0 <3.0.0"
+  flutter: ">=1.10.0"
 >>>>>>> Stashed changes

@@ -7,6 +7,7 @@ PODS:
     - Flutter
 >>>>>>> Stashed changes
   - Flutter (1.0.0)
+<<<<<<< Updated upstream
   - GoogleUtilities/AppDelegateSwizzler (7.2.2):
     - GoogleUtilities/Environment
     - GoogleUtilities/Logger
@@ -25,6 +26,10 @@ PODS:
   - integration_test (0.0.1):
     - Flutter
   - payjp_flutter (0.5.0):
+=======
+  - PAYJP (1.1.6)
+  - payjp_flutter (0.1.7):
+>>>>>>> Stashed changes
     - CardIO (~> 5.4.1)
     - Flutter
 <<<<<<< Updated upstream
@@ -95,8 +100,9 @@ SPEC CHECKSUMS:
 =======
 <<<<<<< Updated upstream
   e2e: 967b9b1fc533b7636a3b7a719f840c27f301fe1f
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   PAYJP: 71cd9568120631aecf87dd0fdc9ccd2596e014e6
+<<<<<<< Updated upstream
   payjp_flutter: c6ab67313339e270a8ec45bb1b59c46ff3369fbb
 >>>>>>> Stashed changes
 
@@ -118,4 +124,11 @@ PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
 
 COCOAPODS: 1.11.3
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+  payjp_flutter: 9d21c9e1d46f633bf8f3eb596a657706823db722
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
 >>>>>>> Stashed changes
